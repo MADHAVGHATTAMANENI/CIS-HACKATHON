@@ -1,0 +1,5 @@
+Flask==2.3.3
+azure-storage-blob==12.18.3
+azure-data-tables==12.4.0
+Werkzeug==2.3.7
+python-dotenv==1.0.0
